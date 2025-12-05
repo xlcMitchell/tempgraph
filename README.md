@@ -17,7 +17,7 @@ This project measures temperature using an Arduino and displays the data in real
 
 ![Reading temperature](demo.png)
 ![Recorded temperature displaying in graph](demo1.png)
-![temperature graph gif](temperature reading.gif)
+![temperature graph gif](temperaturereading.gif)
 
 
 
